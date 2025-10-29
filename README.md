@@ -167,6 +167,8 @@ Goal (USD) = 'Crowdfunding_fact'[Goal] * 'Crowdfunding_fact'[static_usd_rate]
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+**Nabaluru Shyam**  
+📧 [nabalurushyam1327@gmail.com](mailto:nabalurushyam1327@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shyamnabaluru)
+
