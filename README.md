@@ -155,8 +155,8 @@ Goal (USD) = 'Crowdfunding_fact'[Goal] * 'Crowdfunding_fact'[static_usd_rate]
 ---
 
 ## 📷 Dashboard Preview
-*(Attach dashboard screenshots here)*  
-`/Screenshots/Dashboard.png`
+<img width="1599" height="899" alt="Screenshot 2025-10-29 233652" src="https://github.com/user-attachments/assets/68744ef0-e52f-4dd7-84b1-4e5d874fd2f8" />
+
 
 ---
 
